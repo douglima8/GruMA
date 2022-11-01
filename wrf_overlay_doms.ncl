@@ -6,6 +6,9 @@ load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"
 load "$NCARG_ROOT/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl"
 ;load "./WRFUserARW.ncl"
 
+
+;script_teste
+
 begin
 
  ref_lat   =  -19.531389
